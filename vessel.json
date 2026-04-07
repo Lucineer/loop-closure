@@ -1,1 +1,12 @@
-{"name":"loop-closure","type":"cocapn-vessel","version":"1.0.0","fleet":"https://the-fleet.casey-digennaro.workers.dev","cocapn":"https://cocapn.ai"}
+{
+  "name": "loop-closure",
+  "type": "cocapn-vessel",
+  "version": "1.0.0",
+  "fleet": "https://the-fleet.casey-digennaro.workers.dev",
+  "cocapn": "https://cocapn.ai",
+  "capabilities": [
+    "meta-orchestration",
+    "feedback-loop",
+    "goal-monitoring"
+  ]
+}
